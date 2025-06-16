@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "johnDoe@gmail.com",
+    "location": "Sydney"
+  },
+  {
+    "id": 1,
+    "name": "Hayao Miyazaki",
+    "email": "hayaoMiyazaki@gmail.com",
+    "location": "Tokyo"
+  },
+  {
+    "id": 1,
+    "name": "Juan de Herrera",
+    "email": "deHerreraJuan@gmail.com",
+    "location": "Madrid"
+  },
+  {
+    "id": 1,
+    "name": "Xu Minghao",
+    "email": "the8@gmail.com",
+    "location": "Shanghai"
+  },
+  {
+    "id": 1,
+    "name": "Mostafa El-Abbadi",
+    "email": "El-AbbadiMostafa@gmail.com",
+    "location": "Cairo"
+  }
+]

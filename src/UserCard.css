@@ -1,0 +1,29 @@
+.user-card {
+  border: 2px solid rgb(143, 148, 241);
+  padding: 20px;
+  margin: 10px;
+  width: 300px;
+  height: auto;
+  background-color: rgb(21, 65, 132);
+  box-shadow: 2px 6px 3px #111;
+}
+
+.user-card:hover {
+  width: 350px;
+  background-color: rgb(6, 44, 85);
+  color: #fff;
+}
+
+.user-card-name {
+  font-size: 24px;
+  color: #88ff00;
+}
+
+.user-card-email {
+  font-size: 13px;
+}
+
+.user-card-location {
+  font-size: 16px;
+  font-weight: bold;
+}
